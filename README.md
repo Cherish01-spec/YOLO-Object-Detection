@@ -19,3 +19,21 @@ It allows you to:
 ---
 
 ## 📂 Project Structure
+yolo_object_detection/
+│
+├── app.py # Main application file
+├── yolov3.cfg # YOLOv3 model configuration
+├── yolov3.weights # YOLOv3 pretrained weights
+├── coco.names # Object class names
+├── README.md # Project documentation
+└── env/ # Python virtual environment (optional)
+
+
+---
+
+## ⚙️ Installation & Setup
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/<your-username>/<repo-name>.git
+cd <repo-name>
