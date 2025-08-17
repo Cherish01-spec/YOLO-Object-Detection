@@ -36,8 +36,8 @@ yolo_object_detection/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://https://github.com/Cherish01-spec/YOLO-Object-Detection.git
+cd YOLO-Object-Detection
 ```
 
 ### 2️⃣ Create Virtual Environment (Recommended)
